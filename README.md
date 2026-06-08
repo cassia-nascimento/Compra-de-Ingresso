@@ -13,8 +13,6 @@ Projeto prático de capacitação desenvolvido como parte da trilha de **Lógica
 
 A aplicação simula um totem digital ou checkout de vendas para um evento corporativo/cultural (*e-ticket*). O usuário escolhe o tipo de bilhete desejado, define a quantidade e o sistema valida em tempo real se a operação respeita o teto de inventário disponível na memória local da página.
 
-<p align="center"> <img src="assets/tela-inicial.png" alt="Tela Inicial" width="90%"> </p>
-
 ---
 
 ## 📌 Regras de Negócio & Engenharia de Lógica
